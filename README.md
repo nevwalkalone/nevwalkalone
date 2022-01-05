@@ -6,6 +6,7 @@ I'm Nondas, a CS Graduate at AUEB, based in Athens, Greece. Currently serving in
 
 ### Worked with:
 
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" alt="java" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" alt="c" width="30" height="30"/>
@@ -13,7 +14,7 @@ I'm Nondas, a CS Graduate at AUEB, based in Athens, Greece. Currently serving in
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original-wordmark.svg" alt="psql" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/android/android-plain-wordmark.svg" alt="android" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain-wordmark.svg" alt="git" width="30" height="30"/>
-
+</p>
 among others.
 
 ### Current Interests:
