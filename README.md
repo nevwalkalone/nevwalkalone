@@ -33,7 +33,7 @@ among others.
 </p>
 
 ## Snake eating contribution
-![snake gif](https://github.com/nevwalkalone/nevwalkalone/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/nevwalkalone/nevwalkalone/blob/output/github-contribution-grid-snake.svg)
 <!--
 **nevwalkalone/nevwalkalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
