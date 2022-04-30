@@ -2,7 +2,6 @@
 
 I'm Nondas, a CS Graduate at AUEB, based in Athens, Greece. Currently serving in the military.
 
-📫 You can reach me at this [e-mail](mailto:nevwalkalone13@gmail.com).
 
 ### Worked with:
 
@@ -26,11 +25,6 @@ among others.
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
 </p>
 
-<h3 align="center"> Find me at: </h3>
-<p align="center">
-<a href="https://discordapp.com/users/536346516499988512" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" alt='github' height='30' /></a>
-<a href="https://stackoverflow.com/users/17344342/nondas-ioannou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt='github' height='30' /></a>
-</p>
 
 ##
  
