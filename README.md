@@ -32,8 +32,14 @@ among others.
 <a href="https://stackoverflow.com/users/17344342/nondas-ioannou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt='github' height='30' /></a>
 </p>
 
-
-![snake gif](https://github.com/nevwalkalone/nevwalkalone/blob/output/github-contribution-grid-snake.svg)
+##
+ 
+<div>
+  <a href="https://www.linkedin.com/in/epaminondas-ioannou-a70b07219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nevwalkalone13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+![Snake animation](https://github.com/fabricius1/fabricius1/blob/output/github-contribution-grid-snake.svg)
+</div>
 <!--
 **nevwalkalone/nevwalkalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
