@@ -32,6 +32,8 @@ among others.
 <a href="https://stackoverflow.com/users/17344342/nondas-ioannou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt='github' height='30' /></a>
 </p>
 
+## Snake eating contribution
+![snake gif](https://github.com/nevwalkalone/nevwalkalone/blob/output/github-contribution-grid-snake.gif)
 <!--
 **nevwalkalone/nevwalkalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
