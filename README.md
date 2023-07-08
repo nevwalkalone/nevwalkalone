@@ -1,6 +1,6 @@
 ### Greetings👋
 
-I'm Nondas, a CS Graduate at AUEB, based in Athens, Greece. Currently working as a Junior Software Engineer at [Margera](https://www.margera.co/).
+I'm Nondas, a CS Graduate at AUEB, based in Athens, Greece. Currently working as a Junior Analytics Engineer at [Margera](https://www.margera.co/).
 
 
 ### Worked with:
